@@ -67,19 +67,21 @@ This is a decentralized lottery system built on Aleo that demonstrates the use o
 # Accounts using the following tests
 
 - Account A:
-  Private Key: APrivateKey1zkpHL8rPwuLVu94Qh5mFmaFFVgoMBa8vhvBPJo1g4WtYpmL
-  View Key: AViewKey1fJcLCh46bF4424ScReuiiX5YpYjVBg9N1a5KiWkS8UXc
-  Address: aleo16p0lgtzcsl0u86yd744pdu5nnnt5a23amaa9w8zecsge3v3sncxsk9lpm5
+
+  - Private Key: APrivateKey1zkpHL8rPwuLVu94Qh5mFmaFFVgoMBa8vhvBPJo1g4WtYpmL
+  - View Key: AViewKey1fJcLCh46bF4424ScReuiiX5YpYjVBg9N1a5KiWkS8UXc
+  - Address: aleo16p0lgtzcsl0u86yd744pdu5nnnt5a23amaa9w8zecsge3v3sncxsk9lpm5
 
 - Account B:
-  Private Key: APrivateKey1zkpDM51iGRkHCWMGweKwgDiKSqztCCSYiz7UnpWoyt1eouX
-  View Key: AViewKey1ubsGVQyWhbRmvSrTPNVp1rT1TQqFjn9bFfvVXmEM9h4M
-  Address: aleo1t3ut4l0wnaf3rrkt7djtm0fflvl2tzhhm4jfyyxt0w2a35823v8q48y9t8
+
+  - Private Key: APrivateKey1zkpDM51iGRkHCWMGweKwgDiKSqztCCSYiz7UnpWoyt1eouX
+  - View Key: AViewKey1ubsGVQyWhbRmvSrTPNVp1rT1TQqFjn9bFfvVXmEM9h4M
+  - Address: aleo1t3ut4l0wnaf3rrkt7djtm0fflvl2tzhhm4jfyyxt0w2a35823v8q48y9t8
 
 - Account C:
-  Private Key: APrivateKey1zkpAY3kFSAreD8aVMJ4CEjimgT3TgQhAHLEU8hxme98ECST
-  View Key: AViewKey1gtJuMXyz9yKwbi3RjbsKL1LWJYuJS8efjPCEaHsAmZnb
-  Address: aleo12r9q2j3zutks9ypcdmhhanjlrry7mdwkn2zf055scher4yr4n5rsz6lkf7
+  - Private Key: APrivateKey1zkpAY3kFSAreD8aVMJ4CEjimgT3TgQhAHLEU8hxme98ECST
+  - View Key: AViewKey1gtJuMXyz9yKwbi3RjbsKL1LWJYuJS8efjPCEaHsAmZnb
+  - Address: aleo12r9q2j3zutks9ypcdmhhanjlrry7mdwkn2zf055scher4yr4n5rsz6lkf7
 
 # Local Testing
 
