@@ -418,4 +418,4 @@ _nonce: 751256180143949100803985854057880262871537777259697787977009422150643086
 
 ```
 
-![If you claim with an account that hasn't won, tx won't be generated. you can see the image on AleoScan.](/images/winnerclaim_fails.png)
+![If you claim with an account that hasn't won, tx won't be generated. you can see the image on AleoScan.](./images/winnerclaim_fails.png)
